@@ -1,0 +1,25 @@
+{
+  "name": "kugo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinalga/kugo.git"
+  },
+  "author": "Kevin David Sierra Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevinalga/kugo/issues"
+  },
+  "homepage": "https://github.com/Kevinalga/kugo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
